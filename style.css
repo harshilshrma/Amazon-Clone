@@ -7,4 +7,52 @@
 .navbar {
     height: 60px;
     background-color: #007185;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.nav-logo {
+    height: 50px;
+    width: 113px;
+}
+.logo {
+    background-image: url(/Resources/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 113px;
+    
+}
+
+.border {
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
+/* box 2 */
+.add-first{
+    font-size: 0.85rem;
+    color: #CCCCCC;
+    margin-left: 15px;
+}
+.add-second{
+    font-size: 1rem;
+    margin-left: 4px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+
+/* box 3 */
+
+.nav-search{
+    display: flex;
+    border-color: pink;
+    width: 600px;
+    height: 38px;
+    border-radius: 4px;
 }
