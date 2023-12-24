@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url("/Resources/logo.png");
+    background-image: url("logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 50px;
@@ -166,7 +166,7 @@
 
 /* hero sextion */
 .hero-section {
-    background-image: url("/Resources/image1.jpg");
+    background-image: url("image1.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
