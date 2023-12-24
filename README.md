@@ -31,7 +31,7 @@ The replicated homepage includes:
 
 <ul>
     <li><strong>Navigation Bar:</strong> Mirroring Amazon's navigation layout</li>
-    <li><strong>Search Bar:</strong> Emulating the appearance of the search feature</li>
+    <li><strong>Search Bar with Hover Effect:</strong> Emulating the appearance of the search feature along with implementing a glowing effect on hover similar to Amazon's search bar.</li>
     <li><strong>Product Displays:</strong> Structuring product grids akin to Amazon's homepage</li>
     <li><strong>Footer:</strong> Replicating the footer section's design elements</li>
 </ul>
@@ -39,7 +39,16 @@ The replicated homepage includes:
 
 <br>
 
+## Learnings
+Key takeaways from this project:
+
+<ul>
+    <li><strong>Enhanced HTML & CSS Skills:</strong> Improved proficiency in structuring layouts and styling elements.</li>
+    <li><strong>Version Control Benefits:</strong> Understanding the importance of Git for tracking changes and collaborating on projects.</li>
+    <li><strong>Complexity Handling:</strong> Dealt with the intricacies of styling a complex webpage layout.</li>
+</ul>
 
 
 
+<br>
 
