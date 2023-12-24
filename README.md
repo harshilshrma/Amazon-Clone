@@ -28,6 +28,7 @@ My primary objective was to replicate the visual elements and structure of Amazo
 
 # Visual Demonstration
 
+![Amazon Clone GIF](https://github.com/harshilshrma/Amazon-Clone/blob/main/amazon-clone.gif)
 
 <br>
 
