@@ -2,7 +2,7 @@
 
 # Amazon Homepage Replication Project 🛒
 
-[<img src="https://w7.pngwing.com/pngs/878/65/png-transparent-amazon-logo-amazon-com-the-exposed-saga-computer-icons-app-store-amazon-icon-socialmedia-iconset-uicon-miscellaneous-text-trademark-thumbnail.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilsharma.github.io/Amazon-Clone) <span style="color:blue">&nbsp;_(Click on the logo to visit the page)_</span>
+[<img src="https://w7.pngwing.com/pngs/878/65/png-transparent-amazon-logo-amazon-com-the-exposed-saga-computer-icons-app-store-amazon-icon-socialmedia-iconset-uicon-miscellaneous-text-trademark-thumbnail.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/Amazon-Clone/) <span style="color:blue">&nbsp;_(Click on the logo to visit the page)_</span>
 
 ## Overview
 Welcome to my project! Here, I took on the challenge of recreating the layout of Amazon.com's homepage using only HTML and CSS. This project marks my initial steps into the world of web design and development.
