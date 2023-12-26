@@ -1,4 +1,4 @@
-<img src="https://wallpapers.com/images/featured/amazon-npcp6jc782ixp9zs.jpg" alt="LeetCode Logo" >
+<img src="https://wallpapers.com/images/featured/amazon-npcp6jc782ixp9zs.jpg" alt="amazon banner" >
 
 # Amazon Homepage Replication Project 🛒
 
