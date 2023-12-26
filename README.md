@@ -17,9 +17,13 @@ My primary objective was to replicate the visual elements and structure of Amazo
 <div style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" height="90px" title="HTML">
+    &nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS icon" height="90px" title="CSS">
+    &nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git icon" height="75px" title="Git">
+    &nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub icon" height="75px" title="GitHub">
+    &nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs code icon" height="60px" title="Microsoft Visual Studio">
   </div>
 </div>
