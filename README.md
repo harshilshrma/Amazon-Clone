@@ -7,7 +7,9 @@
 # Overview
 Welcome to my project! Here, I took on the challenge of recreating the layout of Amazon.com's homepage using only HTML and CSS. This project marks my initial steps into the world of web design and development.
 
-My primary objective was to replicate the visual elements and structure of Amazon's homepage. By focusing solely on HTML and CSS, I aimed to grasp the fundamentals of front-end development, emphasizing clean coding practices for an aesthetically pleasing interface. The motivation behind this project was to gain practical experience in web development. Replicating Amazon's homepage, a widely recognized and complex interface, provided an excellent opportunity to delve into front-end design principles.
+My primary objective was to replicate the visual elements and structure of Amazon's homepage. By focusing solely on HTML and CSS, I aimed to grasp the fundamentals of front-end development, emphasizing clean coding practices for an aesthetically pleasing interface. 
+
+The motivation behind this project was to gain practical experience in web development. Replicating Amazon's homepage, a widely recognized and complex interface, provided an excellent opportunity to delve into front-end design principles.
 
 <br>
 
